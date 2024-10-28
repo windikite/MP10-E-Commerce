@@ -4,8 +4,8 @@ Now, to get this working please use the most recent version of the e-commerce AP
 
 Link to backend API = https://github.com/windikite/MP5-E-CommerceAPI
 
-![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/blob/main/public/webPreviewProducts.png)
-![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/blob/main/public/webPreviewCart.png)
+![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/public/webPreviewProducts.png)
+![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/public/webPreviewCart.png)
 
 1. Customer and CustomerAccount Management: 
     - **Create:** The application has a form for capturing and submitting customer information to create accounts.  
