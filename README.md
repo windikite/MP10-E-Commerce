@@ -2,6 +2,11 @@ My 10th miniproject! This one is the culmination of the entire core curriculum. 
 
 Now, to get this working please use the most recent version of the e-commerce API (I fixed something with status codes being returned on there). Then, download this, install packages and run it through node! There are some considerations for how I designed things to simulate later features, such as a customer and admin mode so that I could fulfil requirements for the project without having to expand the API yet. I will definitely be upgrading this in the future though and I'm excited for that. 
 
+Link to backend API = https://github.com/windikite/MP5-E-CommerceAPI
+
+![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/blob/main/public/webPreviewProducts.png)
+![website preview](https://raw.githubusercontent.com/Windikite/MP10-E-Commerce/blob/main/public/webPreviewCart.png)
+
 1. Customer and CustomerAccount Management: 
     - **Create:** The application has a form for capturing and submitting customer information to create accounts.  
     - **Read:** It is possible to view customer details by clicking on their name on the customer list page.  
